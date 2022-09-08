@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471164696528",
+    "project_id": "firstapp-fe0e4",
+    "storage_bucket": "firstapp-fe0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471164696528:android:97e879c2c1135a381d6bd5",
+        "android_client_info": {
+          "package_name": "com.exam.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471164696528-q67049s1mkana9d1f7mhlqa91g6dnpsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSyLimpHfBjbwmt6Q9fb7oHy1Bae2BDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471164696528-q67049s1mkana9d1f7mhlqa91g6dnpsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
